@@ -1,0 +1,17 @@
+**************************************************
+2024-01-30 18:05:14 [ENVIAR] SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+**************************************************
+2024-01-30 19:17:29 [vote] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'PollID' in 'where clause' in C:\xampp\htdocs\votaciones2\votePoll.php:102
+Stack trace:
+#0 C:\xampp\htdocs\votaciones2\votePoll.php(102): PDOStatement->execute()
+#1 {main}
+**************************************************
+2024-01-30 19:20:55 [vote] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'PollID' in 'where clause' in C:\xampp\htdocs\votaciones2\votePoll.php:102
+Stack trace:
+#0 C:\xampp\htdocs\votaciones2\votePoll.php(102): PDOStatement->execute()
+#1 {main}
+**************************************************
+2024-01-30 19:27:14 [vote] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tokenQuestion' in 'where clause' in C:\xampp\htdocs\votaciones2\votePoll.php:87
+Stack trace:
+#0 C:\xampp\htdocs\votaciones2\votePoll.php(87): PDOStatement->execute()
+#1 {main}

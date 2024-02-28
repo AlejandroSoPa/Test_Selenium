@@ -1,0 +1,55 @@
+2024-02-06 15:29:43 [REGISTER] Email inválido (ya enlazado a una cuenta)
+2024-02-06 15:29:54 [DASHBOARD] Login correcto del user2 con username Erik
+2024-02-06 15:30:16 [DASHBOARD] Login correcto del user2 con username Erik
+2024-02-06 15:30:30 [PASSWORDCHANGE] El usuario 2 ha cambiado su contraseña
+2024-02-06 15:31:05 [DASHBOARD] Login correcto del user2 con username Erik
+2024-02-06 15:33:08 [pollDetails] Cambios guardados del usuario 2 en la encuesta 2
+2024-02-06 15:58:23 [DASHBOARD] Vaya, parece que no tienes respuestas, user: Erik
+2024-02-06 15:59:02 [DASHBOARD] Vaya, parece que no tienes respuestas, user: Erik
+2024-02-06 15:59:31 [DASHBOARD] Vaya, parece que no tienes respuestas, user: Erik
+2024-02-06 15:59:39 [DASHBOARD] Vaya, parece que no tienes respuestas, user: Erik
+2024-02-06 16:00:28 [DASHBOARD] Vaya, parece que no tienes respuestas, user: Erik
+2024-02-06 16:00:28 [VOTE] Voto registrado
+2024-02-06 16:00:42 [LOGIN] Credenciales incorrectos
+2024-02-06 16:03:54 [VOTE] Voto registrado
+2024-02-06 16:04:06 [DASHBOARD] Login correcto del user2 con username Erik
+2024-02-06 16:06:09 [DASHBOARD] El user2 no deberia estar aqui
+2024-02-06 16:06:09 [DASHBOARD] Login correcto del user2 con username Erik
+2024-02-06 16:06:14 [logout] El usuario 2 ha cerrado sesion
+2024-02-06 16:07:01 [REGISTER] Error al enviar el correo de validación: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2024-02-06 16:08:26 [REGISTER] Registro completado correctamente del user Erik con email eriktamano@gmail.com
+2024-02-06 16:09:02 [DASHBOARD] Términos de uso aceptados correctamente
+2024-02-06 16:10:11 [VOTE] Voto registrado
+2024-02-06 16:10:35 [logout] El usuario 1 ha cerrado sesion
+2024-02-06 16:11:00 [REGISTER] Registro completado correctamente del user Erik con email eriktamano@gmail.com
+2024-02-06 16:11:49 [DASHBOARD] Términos de uso aceptados correctamente
+2024-02-06 16:16:39 [VOTE] Voto registrado
+2024-02-06 16:16:41 [DASHBOARD] Login correcto del user1 con username Erik
+2024-02-06 16:17:07 [DASHBOARD] Login correcto del user1 con username Erik
+2024-02-06 16:17:24 [PASSWORDCHANGE] El usuario 1 ha cambiado su contraseña
+2024-02-06 16:17:42 [DASHBOARD] Login correcto del user1 con username Erik
+2024-02-06 16:17:45 [logout] El usuario 1 ha cerrado sesion
+2024-02-06 16:25:50 [DASHBOARD] Login correcto del user1 con username Erik
+2024-02-06 16:25:59 [DASHBOARD] Login correcto del user1 con username Erik
+2024-02-06 16:26:33 [logout] El usuario 1 ha cerrado sesion
+2024-02-06 16:36:29 [DASHBOARD] Login correcto del user1 con username Erik
+2024-02-06 16:53:30 [pollDetails] Cambios guardados del usuario 1 en la encuesta 1
+2024-02-06 17:37:52 [VOTE] Encuesta bloqueada
+2024-02-06 17:38:25 [VOTE] Encuesta bloqueada
+2024-02-06 17:42:23 [VOTE] Encuesta bloqueada
+2024-02-06 17:42:33 [VOTE] Encuesta bloqueada
+2024-02-06 17:56:50 [DASHBOARD] Login correcto del user1 con username Erik
+2024-02-06 17:59:58 [CREATE POLL] El usuario 1 ha creado una encuesta
+2024-02-06 15:37:59 [invite] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\Proyecto_Vota\invite.php:37
+Stack trace:
+#0 C:\xampp\htdocs\Proyecto_Vota\invite.php(37): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue))
+#1 {main}
+2024-02-06 16:33:03 [REGISTER] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\Proyecto_Vota\register.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Proyecto_Vota\register.php(54): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue))
+#1 {main}
+2024-02-06 16:34:40 [REGISTER] Registro completado correctamente del user jovao348@gmail.com con email jovao348@gmail.com
+2024-02-06 16:39:21 [REGISTER] Registro completado correctamente del user jovao348@gmail.com con email jovao348@gmail.com
+2024-02-06 16:41:26 [REGISTER] Registro completado correctamente del user jovao348@gmail.com con email jovao348@gmail.com
+2024-02-06 16:42:03 [REGISTER] Registro completado correctamente del user jovao348@gmail.com con email jovao348@gmail.com
+2024-02-06 16:45:16 [REGISTER] Registro completado correctamente del user jovao348@gmail.com con email jovao348@gmail.com

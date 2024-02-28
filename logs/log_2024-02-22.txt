@@ -1,0 +1,1 @@
+2024-02-22 16:18:21 [DASHBOARD] Login correcto del user3 con username enric_prueba

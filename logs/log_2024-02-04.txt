@@ -1,0 +1,9 @@
+**************************************************
+2024-02-04 13:25:51 [REGISTER] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\votaciones\Proyecto_Vota\register.php:54
+Stack trace:
+#0 C:\xampp\htdocs\votaciones\Proyecto_Vota\register.php(54): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue))
+#1 {main}
+**************************************************
+2024-02-04 14:06:20 [LOGIN] Credenciales incorrectos
+**************************************************
+2024-02-04 14:22:49 [LOGIN] Credenciales incorrectos

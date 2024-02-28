@@ -1,0 +1,127 @@
+**************************************************
+2024-01-31 20:14:26 [LOGIN] Credenciales incorrectos
+**************************************************
+2024-01-31 20:19:03 [newPoll] El cuestionario debe contener al menos 2 respuestas
+**************************************************
+2024-01-31 19:59:53 [ENVIAR] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'project_vota.poll_invitedusers' doesn't exist
+**************************************************
+2024-01-31 19:59:53 [ENVIAR] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'project_vota.poll_invitedusers' doesn't exist
+**************************************************
+2024-01-31 19:59:53 [ENVIAR] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'project_vota.poll_invitedusers' doesn't exist
+**************************************************
+2024-01-31 20:03:40 [ENVIAR] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'project_vota.users' doesn't exist
+**************************************************
+2024-01-31 20:03:40 [ENVIAR] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'project_vota.users' doesn't exist
+**************************************************
+2024-01-31 20:03:40 [ENVIAR] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'project_vota.users' doesn't exist
+**************************************************
+2024-01-31 20:20:12 [votePoll] PDOException: SQLSTATE[HY000] [1049] Unknown database 'test2' in /home/super/Escriptori/proyecto2/votePoll.php:81
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/votePoll.php(81): PDO->__construct()
+#1 {main}
+**************************************************
+2024-01-31 20:20:27 [votePoll] PDOException: SQLSTATE[HY000] [1049] Unknown database 'test2' in /home/super/Escriptori/proyecto2/votePoll.php:81
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/votePoll.php(81): PDO->__construct()
+#1 {main}
+**************************************************
+2024-01-31 20:20:41 [votePoll] PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'project_vota.poll_invitedusers' doesn't exist in /home/super/Escriptori/proyecto2/votePoll.php:87
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/votePoll.php(87): PDOStatement->execute()
+#1 {main}
+**************************************************
+2024-01-31 20:21:13 [votePoll] PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'project_vota.poll_InvitedUsers' doesn't exist in /home/super/Escriptori/proyecto2/votePoll.php:87
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/votePoll.php(87): PDOStatement->execute()
+#1 {main}
+**************************************************
+2024-01-31 20:21:20 [votePoll] PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'project_vota.polls' doesn't exist in /home/super/Escriptori/proyecto2/votePoll.php:87
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/votePoll.php(87): PDOStatement->execute()
+#1 {main}
+**************************************************
+2024-01-31 20:21:31 [votePoll] PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'project_vota.answers' doesn't exist in /home/super/Escriptori/proyecto2/votePoll.php:94
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/votePoll.php(94): PDOStatement->execute()
+#1 {main}
+**************************************************
+2024-01-31 20:21:42 [votePoll] PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'project_vota.poll_invitedusers' doesn't exist in /home/super/Escriptori/proyecto2/votePoll.php:94
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/votePoll.php(94): PDOStatement->execute()
+#1 {main}
+**************************************************
+2024-01-31 20:22:09 [votePoll] PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'project_vota.polls' doesn't exist in /home/super/Escriptori/proyecto2/votePoll.php:94
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/votePoll.php(94): PDOStatement->execute()
+#1 {main}
+**************************************************
+2024-01-31 20:22:24 [votePoll] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'PollID' in 'where clause' in /home/super/Escriptori/proyecto2/votePoll.php:102
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/votePoll.php(102): PDOStatement->execute()
+#1 {main}
+**************************************************
+2024-01-31 17:38:45 [REGISTER] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/super/Escriptori/proyecto2/register.php:54
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/register.php(54): PDO->__construct()
+#1 {main}
+**************************************************
+2024-01-31 17:40:49 [REGISTER] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/super/Escriptori/proyecto2/register.php:54
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/register.php(54): PDO->__construct()
+#1 {main}
+**************************************************
+2024-01-31 21:57:31 [REGISTER] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\Proyecto_Vota\register.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Proyecto_Vota\register.php(54): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue))
+#1 {main}
+**************************************************
+2024-01-31 21:58:08 [REGISTER] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\Proyecto_Vota\register.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Proyecto_Vota\register.php(54): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue))
+#1 {main}
+**************************************************
+2024-01-31 21:59:46 [REGISTER] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\Proyecto_Vota\register.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Proyecto_Vota\register.php(54): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue))
+#1 {main}
+**************************************************
+2024-01-31 21:59:48 [REGISTER] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\Proyecto_Vota\register.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Proyecto_Vota\register.php(54): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue))
+#1 {main}
+**************************************************
+2024-01-31 22:01:54 [REGISTER] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\Proyecto_Vota\register.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Proyecto_Vota\register.php(54): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue))
+#1 {main}
+**************************************************
+2024-01-31 22:07:42 [REGISTER] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\Proyecto_Vota\register.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Proyecto_Vota\register.php(54): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue))
+#1 {main}
+**************************************************
+2024-01-31 22:07:43 [REGISTER] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\Proyecto_Vota\register.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Proyecto_Vota\register.php(54): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue))
+#1 {main}
+**************************************************
+2024-01-31 22:22:38 [DASHBOARD] Token de validación inválido
+**************************************************
+2024-01-31 22:23:19 [DASHBOARD] Token de validación inválido
+**************************************************
+2024-01-31 22:24:22 [DASHBOARD] Token de validación inválido
+**************************************************
+2024-01-31 22:31:00 [votePoll] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ans.ImagePath' in 'field list' in C:\xampp\htdocs\Proyecto_Vota\votePoll.php:97
+Stack trace:
+#0 C:\xampp\htdocs\Proyecto_Vota\votePoll.php(97): PDOStatement->execute()
+#1 {main}
+**************************************************
+2024-01-31 22:34:45 [DASHBOARD] Token de validación inválido
+**************************************************
+2024-01-31 22:38:21 [DASHBOARD] Token de validación inválido
+**************************************************
+2024-01-31 22:48:23 [newPoll] El cuestionario debe contener al menos 2 respuestas
+**************************************************
+2024-01-31 22:50:09 [newPoll] La fecha de inicio no debe ser mayor que la fecha de fin
+**************************************************
+2024-01-31 23:25:29 [LOGIN] Credenciales incorrectos

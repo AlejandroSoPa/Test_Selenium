@@ -1,0 +1,61 @@
+**************************************************
+2024-02-01 19:23:53 [REGISTER] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/super/Escriptori/proyecto2/register.php:54
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/register.php(54): PDO->__construct()
+#1 {main}
+**************************************************
+2024-02-01 19:23:58 [REGISTER] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/super/Escriptori/proyecto2/register.php:54
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/register.php(54): PDO->__construct()
+#1 {main}
+**************************************************
+2024-02-01 19:24:55 [LOGIN] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/super/Escriptori/proyecto2/login.php:43
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/login.php(43): PDO->__construct()
+#1 {main}
+**************************************************
+2024-02-01 19:25:04 [LOGIN] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/super/Escriptori/proyecto2/login.php:43
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/login.php(43): PDO->__construct()
+#1 {main}
+**************************************************
+2024-02-01 19:25:21 [LOGIN] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/super/Escriptori/proyecto2/login.php:43
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/login.php(43): PDO->__construct()
+#1 {main}
+**************************************************
+2024-02-01 19:25:50 [LOGIN] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/super/Escriptori/proyecto2/login.php:43
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/login.php(43): PDO->__construct()
+#1 {main}
+**************************************************
+2024-02-01 19:25:56 [REGISTER] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/super/Escriptori/proyecto2/register.php:54
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/register.php(54): PDO->__construct()
+#1 {main}
+**************************************************
+2024-02-01 20:11:03 [pollDetails] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'uv.AnswerID' in 'field list' in /home/super/Escriptori/proyecto2/pollDetails.php:96
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/pollDetails.php(96): PDOStatement->execute()
+#1 {main}
+**************************************************
+2024-02-01 20:16:45 [pollDetails] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'uv.AnswerID' in 'field list' in /home/super/Escriptori/proyecto2/pollDetails.php:96
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/pollDetails.php(96): PDOStatement->execute()
+#1 {main}
+**************************************************
+2024-02-01 20:37:08 [REGISTER] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\Proyecto_Vota\register.php:54
+Stack trace:
+#0 C:\xampp\htdocs\Proyecto_Vota\register.php(54): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue))
+#1 {main}
+**************************************************
+2024-02-01 20:37:21 [LOGIN] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\Proyecto_Vota\login.php:43
+Stack trace:
+#0 C:\xampp\htdocs\Proyecto_Vota\login.php(43): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue))
+#1 {main}
+**************************************************
+2024-02-01 20:59:07 [DASHBOARD] Login correcto del user63 con username javii
+**************************************************
+2024-02-01 21:06:47 [newPoll] El cuestionario debe contener al menos 2 respuestas
+**************************************************
+2024-02-01 21:06:50 [DASHBOARD] El user javii no tiene encuestas

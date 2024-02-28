@@ -1,0 +1,62 @@
+2024-02-05 15:30:06 [REGISTER] Registro completado correctamente del user Eriktamano con email etamanosantos.cf@iesesteveterradas.cat
+2024-02-05 15:31:33 [DASHBOARD] Términos de uso aceptados correctamente
+2024-02-05 15:37:56 [REGISTER] Registro completado correctamente del user Erik con email etamanosantos.cf@iesesteveterradas.cat
+2024-02-05 15:38:56 [DASHBOARD] El user2 no deberia estar aqui
+2024-02-05 15:38:56 [DASHBOARD] Login correcto del user2 con username Eriktamano
+2024-02-05 15:39:04 [DASHBOARD] El user2 no deberia estar aqui
+2024-02-05 15:39:08 [DASHBOARD] El user2 no deberia estar aqui
+2024-02-05 15:39:11 [DASHBOARD] El user2 no deberia estar aqui
+2024-02-05 15:39:49 [DASHBOARD] El user2 no deberia estar aqui
+2024-02-05 15:42:34 [REGISTER] Registro completado correctamente del user Erik con email etamanosantos.cf@iesesteveterradas.cat
+2024-02-05 15:43:08 [DASHBOARD] Términos de uso aceptados correctamente
+2024-02-05 16:17:31 [pollDetails] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'uv.AnswerID' in 'field list' in /home/super/Escriptori/proyecto2/pollDetails.php:98
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/pollDetails.php(98): PDOStatement->execute()
+#1 {main}
+2024-02-05 16:20:57 [invite] Correos electrónicos almacenados con éxito
+2024-02-05 16:23:19 [VOTE] Voto registrado
+2024-02-05 16:25:30 [REGISTER] Registro completado correctamente del user eriktamano con email eriktamano@gmail.com
+2024-02-05 16:32:07 [REGISTER] Registro completado correctamente del user admin con email etamanosantos.cf@iesesteveterradas.cat
+2024-02-05 16:32:33 [DASHBOARD] Términos de uso aceptados correctamente
+2024-02-05 16:33:26 [invite] Correos electrónicos almacenados con éxito
+2024-02-05 16:34:14 [VOTE] Voto registrado
+2024-02-05 16:34:48 [REGISTER] Registro completado correctamente del user Erik con email eriktamano@gmail.com
+2024-02-05 16:36:09 [REGISTER] Registro completado correctamente del user admin con email etamanosantos.cf@iesesteveterradas.cat
+2024-02-05 16:36:54 [DASHBOARD] Términos de uso aceptados correctamente
+2024-02-05 16:37:36 [invite] Correos electrónicos almacenados con éxito
+2024-02-05 16:38:39 [VOTE] Voto registrado
+2024-02-05 16:39:23 [REGISTER] Registro completado correctamente del user Erik con email eriktamano@gmail.com
+2024-02-05 16:41:33 [DASHBOARD] Términos de uso aceptados correctamente
+2024-02-05 16:41:44 [LOGIN] Credenciales incorrectos
+2024-02-05 16:13:08 [LOGIN] Credenciales incorrectos
+2024-02-05 16:13:13 [LOGIN] Credenciales incorrectos
+2024-02-05 16:13:24 [LOGIN] Credenciales incorrectos
+2024-02-05 16:13:31 [DASHBOARD] Login correcto del user63 con username javii
+2024-02-05 16:16:07 [logout] El usuario 63 ha cerrado sesion
+2024-02-05 16:48:57 [LOGIN] Credenciales incorrectos
+2024-02-05 16:49:02 [LOGIN] Credenciales incorrectos
+2024-02-05 16:49:20 [DASHBOARD] Login correcto del user63 con username javii
+2024-02-05 16:49:55 [logout] El usuario 63 ha cerrado sesion
+2024-02-05 16:50:11 [DASHBOARD] Login correcto del user63 con username javii
+2024-02-05 16:50:51 [logout] El usuario 63 ha cerrado sesion
+2024-02-05 16:51:24 [logout] El usuario 63 ha cerrado sesion
+2024-02-05 16:52:08 [DASHBOARD] Login correcto del user63 con username javii
+2024-02-05 16:52:17 [logout] El usuario 63 ha cerrado sesion
+2024-02-05 16:52:39 [logout] El usuario 63 ha cerrado sesion
+2024-02-05 16:53:00 [DASHBOARD] Login correcto del user63 con username javii
+2024-02-05 18:02:01 [DASHBOARD] Token de validación inválido
+2024-02-05 18:03:50 [DASHBOARD] Token de validación inválido
+2024-02-05 18:03:55 [DASHBOARD] Token de validación inválido
+2024-02-05 18:06:03 [DASHBOARD] Vaya, parece que no tienes respuestas, user: javii
+2024-02-05 18:06:03 [VOTE] Voto registrado
+2024-02-05 18:06:13 [DASHBOARD] Vaya, parece que no tienes respuestas, user: javii
+2024-02-05 18:06:13 [VOTE] Voto registrado
+2024-02-05 18:11:03 [DASHBOARD] Token de validación inválido
+2024-02-05 18:11:10 [DASHBOARD] Vaya, parece que no tienes respuestas, user: javii
+2024-02-05 18:11:10 [VOTE] Voto registrado
+2024-02-05 18:11:49 [VOTE] Voto registrado
+2024-02-05 18:11:59 [VOTE] Link inválido
+2024-02-05 18:22:38 [REGISTER] Email inválido (ya enlazado a una cuenta)
+2024-02-05 18:22:50 [DASHBOARD] Login correcto del user2 con username Erik
+2024-02-05 18:26:47 [LOGIN] Credenciales incorrectos
+2024-02-05 18:26:59 [DASHBOARD] Login correcto del user2 con username Erik

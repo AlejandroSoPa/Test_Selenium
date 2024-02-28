@@ -1,0 +1,131 @@
+**************************************************
+2024-02-02 15:43:11 [DASHBOARD] Vaya, parece que no tienes encuestas
+**************************************************
+2024-02-02 15:59:04 [LOGIN] Credenciales incorrectos
+**************************************************
+2024-02-02 16:02:13 [LOGIN] Credenciales incorrectos
+2024-02-02 15:51:19 [DASHBOARD] Login correcto del user63 con username javii
+2024-02-02 16:10:31 [DASHBOARD] Login correcto del user63 con username javii
+2024-02-02 16:11:00 [LOGIN] Credenciales incorrectos
+2024-02-02 16:11:07 [DASHBOARD] Login correcto del user63 con username javii
+2024-02-02 16:18:44 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 63 no es correcta
+2024-02-02 16:18:56 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 63 no es correcta
+2024-02-02 16:19:07 [LOGIN] Credenciales incorrectos
+2024-02-02 16:19:12 [DASHBOARD] Login correcto del user63 con username javii
+2024-02-02 16:21:06 [PASSWORDCHANGE] El usuario 63 ha cambiado su contraseña
+2024-02-02 16:21:17 [LOGIN] Credenciales incorrectos
+2024-02-02 16:21:21 [DASHBOARD] Login correcto del user63 con username javii
+2024-02-02 16:43:24 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, las nuevas contraseñas del usuario 63 no coinciden
+2024-02-02 16:44:12 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 63 no es correcta
+2024-02-02 16:44:16 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 63 no es correcta
+2024-02-02 16:44:27 [PASSWORDCHANGE] El usuario 63 ha cambiado su contraseña
+2024-02-02 17:03:22 [DASHBOARD] Login correcto del user1 con username Erik
+2024-02-02 17:03:55 [PASSWORDCHANGE] El usuario 1 ha cambiado su contraseña
+2024-02-02 17:36:13 [REGISTER] Registro completado correctamente del user Erik con email eriktamano@gmail.com
+2024-02-02 17:39:46 [DASHBOARD] Términos de uso aceptados correctamente
+2024-02-02 17:42:30 [invite] Correos electrónicos almacenados con éxito
+2024-02-02 17:43:32 [LOGIN] Credenciales incorrectos
+2024-02-02 17:43:40 [LOGIN] Credenciales incorrectos
+2024-02-02 17:44:36 [VOTE] Voto registrado
+2024-02-02 17:44:46 [DASHBOARD] Login correcto del user1 con username Erik
+2024-02-02 17:49:58 [DASHBOARD] Login correcto del user1 con username Erik
+2024-02-02 17:50:21 [PASSWORDCHANGE] El usuario 1 ha cambiado su contraseña
+2024-02-02 17:51:06 [PASSWORDCHANGE] El usuario 1 ha cambiado su contraseña
+2024-02-02 17:51:09 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 1 no es correcta
+2024-02-02 17:51:55 [PASSWORDCHANGE] El usuario 1 ha cambiado su contraseña
+2024-02-02 17:59:50 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 1 no es correcta
+2024-02-02 18:00:05 [PASSWORDCHANGE] El usuario 1 ha cambiado su contraseña
+2024-02-02 18:00:14 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 1 no es correcta
+2024-02-02 18:03:04 [PASSWORDCHANGE] El usuario 1 ha cambiado su contraseña
+2024-02-02 18:03:11 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 1 no es correcta
+2024-02-02 18:15:19 [REGISTER] Registro completado correctamente del user Erik con email eriktamano@gmail.com
+2024-02-02 18:15:49 [DASHBOARD] Términos de uso aceptados correctamente
+2024-02-02 18:16:08 [newPoll] La fecha de inicio no debe ser mayor que la fecha de fin
+2024-02-02 18:18:37 [invite] Correos electrónicos almacenados con éxito
+2024-02-02 18:19:53 [VOTE] Voto registrado
+2024-02-02 18:19:55 [DASHBOARD] Login correcto del user1 con username Erik
+2024-02-02 18:19:58 [pollDetails] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'uv.AnswerID' in 'field list' in /home/super/Escriptori/proyecto2/pollDetails.php:98
+Stack trace:
+#0 /home/super/Escriptori/proyecto2/pollDetails.php(98): PDOStatement->execute()
+#1 {main}
+2024-02-02 18:20:37 [LOGIN] Credenciales incorrectos
+2024-02-02 18:20:54 [DASHBOARD] Login correcto del user1 con username Erik
+2024-02-02 18:27:35 [PASSWORDCHANGE] El usuario 1 ha cambiado su contraseña
+2024-02-02 18:29:18 [DASHBOARD] Login correcto del user1 con username Erik
+2024-02-02 18:30:12 [PASSWORDCHANGE] El usuario 1 ha cambiado su contraseña
+2024-02-02 18:31:04 [DASHBOARD] Login correcto del user1 con username Erik
+2024-02-02 18:31:16 [PASSWORDCHANGE] El usuario 1 ha cambiado su contraseña
+2024-02-02 18:32:14 [REGISTER] Registro completado correctamente del user Erik con email eriktamano@gmail.com
+2024-02-02 18:32:56 [DASHBOARD] Términos de uso aceptados correctamente
+2024-02-02 18:35:08 [invite] Correos electrónicos almacenados con éxito
+2024-02-02 18:37:02 [VOTE] Voto registrado
+2024-02-02 18:37:04 [DASHBOARD] Login correcto del user1 con username Erik
+2024-02-02 18:38:25 [VOTE] Voto registrado
+2024-02-02 18:38:48 [DASHBOARD] Login correcto del user1 con username Erik
+2024-02-02 18:39:01 [PASSWORDCHANGE] El usuario 1 ha cambiado su contraseña
+2024-02-02 18:45:23 [DASHBOARD] Login correcto del user1 con username Erik
+2024-02-02 16:50:13 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 63 no es correcta
+2024-02-02 16:50:35 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 63 no es correcta
+2024-02-02 16:50:45 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 63 no es correcta
+2024-02-02 16:51:14 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 63 no es correcta
+2024-02-02 16:51:25 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 63 no es correcta
+2024-02-02 16:51:30 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 63 no es correcta
+2024-02-02 16:51:37 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 63 no es correcta
+2024-02-02 16:51:42 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 63 no es correcta
+2024-02-02 16:51:48 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 63 no es correcta
+2024-02-02 16:51:55 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 63 no es correcta
+2024-02-02 16:52:01 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 63 no es correcta
+2024-02-02 16:52:22 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 63 no es correcta
+2024-02-02 16:52:29 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 63 no es correcta
+2024-02-02 16:53:00 [PASSWORDCHANGE] Intento de cambio de contraseña fallido, la contraseña actual del usuario 63 no es correcta
+2024-02-02 18:21:44 [pollDetails] Cambios guardados del usuario  en la encuesta 15
+2024-02-02 18:22:06 [pollDetails] Cambios guardados del usuario  en la encuesta 15
+2024-02-02 18:22:22 [LOGIN] Credenciales incorrectos
+2024-02-02 18:22:27 [DASHBOARD] Login correcto del user63 con username javii
+2024-02-02 18:22:41 [pollDetails] Cambios guardados del usuario 63 en la encuesta 15
+2024-02-02 18:31:01 [pollDetails] Cambios guardados del usuario 63 en la encuesta 15
+2024-02-02 18:31:05 [pollDetails] Cambios guardados del usuario 63 en la encuesta 15
+2024-02-02 18:31:09 [pollDetails] Cambios guardados del usuario 63 en la encuesta 15
+2024-02-02 18:31:11 [pollDetails] Cambios guardados del usuario 63 en la encuesta 15
+2024-02-02 18:31:15 [pollDetails] Cambios guardados del usuario 63 en la encuesta 15
+2024-02-02 18:31:28 [pollDetails] Cambios guardados del usuario 63 en la encuesta 15
+2024-02-02 18:32:42 [pollDetails] Cambios guardados del usuario 63 en la encuesta 15
+2024-02-02 18:32:51 [pollDetails] Cambios guardados del usuario 63 en la encuesta 15
+2024-02-02 18:32:59 [pollDetails] Cambios guardados del usuario 63 en la encuesta 12
+2024-02-02 18:33:04 [pollDetails] Cambios guardados del usuario 63 en la encuesta 12
+2024-02-02 18:33:06 [pollDetails] Cambios guardados del usuario 63 en la encuesta 12
+2024-02-02 18:33:24 [pollDetails] Cambios guardados del usuario 63 en la encuesta 12
+2024-02-02 18:33:26 [pollDetails] Cambios guardados del usuario 63 en la encuesta 12
+2024-02-02 18:33:54 [pollDetails] Cambios guardados del usuario 63 en la encuesta 12
+2024-02-02 18:34:02 [pollDetails] Cambios guardados del usuario 63 en la encuesta 12
+2024-02-02 18:35:45 [pollDetails] Cambios guardados del usuario 63 en la encuesta 12
+2024-02-02 18:35:59 [pollDetails] Cambios guardados del usuario 63 en la encuesta 12
+2024-02-02 18:37:51 [pollDetails] Cambios guardados del usuario 63 en la encuesta 12
+2024-02-02 18:37:53 [pollDetails] Cambios guardados del usuario 63 en la encuesta 12
+2024-02-02 18:37:55 [pollDetails] Cambios guardados del usuario 63 en la encuesta 12
+2024-02-02 18:38:11 [pollDetails] Cambios guardados del usuario 63 en la encuesta 15
+2024-02-02 18:38:17 [pollDetails] Cambios guardados del usuario 63 en la encuesta 15
+2024-02-02 18:38:23 [pollDetails] Cambios guardados del usuario 63 en la encuesta 15
+2024-02-02 18:38:26 [pollDetails] Cambios guardados del usuario 63 en la encuesta 15
+2024-02-02 18:38:27 [pollDetails] Cambios guardados del usuario 63 en la encuesta 15
+2024-02-02 18:38:36 [pollDetails] Cambios guardados del usuario 63 en la encuesta 15
+2024-02-02 18:47:32 [DASHBOARD] Login correcto del user63 con username javii
+2024-02-02 19:08:08 [logout] El usuario 63 ha cerrado sesion
+2024-02-02 19:08:24 [DASHBOARD] Login correcto del user63 con username javii
+2024-02-02 19:15:00 [DASHBOARD] Vaya, parece que no tienes respuestas, user: javii
+2024-02-02 19:15:00 [DASHBOARD] Vaya, parece que no tienes respuestas, user: javii
+2024-02-02 19:15:00 [DASHBOARD] Vaya, parece que no tienes respuestas, user: javii
+2024-02-02 19:15:00 [DASHBOARD] Vaya, parece que no tienes respuestas, user: javii
+2024-02-02 19:15:46 [DASHBOARD] Vaya, parece que no tienes respuestas, user: javii
+2024-02-02 19:15:46 [DASHBOARD] Vaya, parece que no tienes respuestas, user: javii
+2024-02-02 19:15:46 [DASHBOARD] Vaya, parece que no tienes respuestas, user: javii
+2024-02-02 19:15:50 [DASHBOARD] Vaya, parece que no tienes respuestas, user: javii
+2024-02-02 19:16:10 [DASHBOARD] Vaya, parece que no tienes encuestas
+2024-02-02 19:16:30 [DASHBOARD] Vaya, parece que no tienes respuestas, user: javii
+2024-02-02 19:17:04 [DASHBOARD] Vaya, parece que no tienes respuestas, user: javii
+2024-02-02 19:17:32 [DASHBOARD] Vaya, parece que no tienes respuestas, user: javii
+2024-02-02 19:17:59 [DASHBOARD] Vaya, parece que no tienes respuestas, user: javii
+2024-02-02 19:18:01 [DASHBOARD] Vaya, parece que no tienes respuestas, user: javii
+2024-02-02 19:18:01 [DASHBOARD] Vaya, parece que no tienes respuestas, user: javii
+2024-02-02 19:18:02 [DASHBOARD] Vaya, parece que no tienes respuestas, user: javii
+2024-02-02 19:18:35 [DASHBOARD] Vaya, parece que no tienes respuestas, user: javii
